@@ -1,4 +1,4 @@
-package com.ofpay.dubbo.rpc.protocol.jsonrpc;
+package com.luckin.dubbo.rpc.protocol.jsonrpc;
 
 /**
  * JsonRpcServiceImpl
